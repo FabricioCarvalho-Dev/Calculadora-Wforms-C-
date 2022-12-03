@@ -1,0 +1,11 @@
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\bin\Debug\Cauculadora.exe.config
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\bin\Debug\Cauculadora.exe
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\bin\Debug\Cauculadora.pdb
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\obj\Debug\Cauculadora.csproj.AssemblyReference.cache
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\obj\Debug\Cauculadora.csproj.SuggestedBindingRedirects.cache
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\obj\Debug\Cauculadora.Properties.Resources.resources
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\obj\Debug\Cauculadora.csproj.GenerateResource.cache
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\obj\Debug\Cauculadora.csproj.CoreCompileInputs.cache
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\obj\Debug\Cauculadora.exe
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\obj\Debug\Cauculadora.pdb
+C:\Code.DotNet\CursoC#\projetoC#\Cauculadora\obj\Debug\Cauculadora.CAUCULADORA.resources
